@@ -640,7 +640,7 @@ margin: -20px auto -6px auto;
 
 .page-title-content.page-title-content-dark {
 color: #fff;
-background: #000;
+background: #00000000;
 mix-blend-mode: darken;
 }
 
