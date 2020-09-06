@@ -147,7 +147,7 @@ $(function() {
 	
     // 8. countdown
     // 8.1. countdown SETUP
-    var end = new Date("08/15/2020 12:00 PM"); // FORMAT: month/day/year time
+    var end = new Date("12/01/2020 12:00 PM"); // FORMAT: month/day/year time
     // 8.2. countdown script
     var _second = 1000;
     var _minute = _second * 60;
